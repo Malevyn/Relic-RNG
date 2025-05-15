@@ -1,0 +1,1 @@
+Displays RNG on Relic / Halidom when enchanting
