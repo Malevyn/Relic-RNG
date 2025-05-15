@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": false,
+    "name": "RNG Helper",
+    "author": "Ace",
+    "description": "Utility for Checking Halidom RNG.",
+    "options": {
+        "niceName": "Hali RNG ",
+        "guiName": "Hali RNG"
+    }
+}
