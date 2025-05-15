@@ -5,9 +5,9 @@
     "description": "Utility for Checking Halidom RNG.",
     "options": {
         "niceName": "Hali RNG ",
-        "guiName": "Hali RNG"
-		"servers": ["https://raw.githubusercontent.com/Malevyn/Relic-RNG/master/"],
+        "guiName": "Hali RNG",
+        "servers": ["https://raw.githubusercontent.com/Malevyn/Relic-RNG/master/"],
         "supportUrl": "https://github.com/Malevyn/Relic-RNG/issues",
-		"version": "1.0"
+        "version": "1.0"
     }
 }
