@@ -1,8 +1,11 @@
 {
-	"files": {
-		"index.js": "88a73dfbc1710296cb46d6c3bca26d6877e26fe07d8cd0ed090d78a8a2ff84ba",
-		"manifest.js": "800dfb1d7f4a3985e1be6bb115a8a27673cda9d50e2902fe0120bcf7b9324bd2",
-		"module.json": "c8baf364f1ba05a148b3ff1e0d30b039ff0fe189a88c2da3e5ac7f4622cf6c27",
-		"README.md": "0403504aefa6d0cae2ebc9dd98e45376b1506ccc01e84aef5f55e42ba35e1262"
-	}
+    "files": {
+        "README.md": "0403504aefa6d0cae2ebc9dd98e45376b1506ccc01e84aef5f55e42ba35e1262",
+        "index.js": "88a73dfbc1710296cb46d6c3bca26d6877e26fe07d8cd0ed090d78a8a2ff84ba",
+        "module.json": "76364bc82a396bab09b28ff645ce4b21f3cd55046627699ea44421f4ebfc35fe"
+    },
+    "defs": {
+        "S_REGISTER_ENCHANT_ITEM": 3,
+        "S_REGISTER_EVOLUTION_ITEM": 3
+    }
 }
